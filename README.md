@@ -54,7 +54,8 @@
 
 ## 📊 GitHub Stats
 
-![Umar's GitHub stats](https://github-readme-stats.vercel.app/api?username=UmarNasib&show_icons=true&theme=default)
+![Umar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=UmarNasib&show_icons=true&theme=default)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=UmarNasib&layout=compact&theme=default)
 
 ---
 
