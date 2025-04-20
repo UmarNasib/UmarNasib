@@ -46,11 +46,9 @@
 ## ✍️ Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [How I Design API Test Automation Frameworks](https://medium.com/@umarnasib13)
-- [My Research Journey in NLP with RoBERTa](https://medium.com/@umarnasib13)
+- [The Future of Software Testing: AI, Automation & Beyond](https://medium.com/@umarnasib13/the-future-of-software-testing-ai-automation-beyond-9ba3ed804e5e)
+- [Unlock Your Potential: A Step-by-Step Guide to Improving Manual Testing Skills](https://medium.com/@umarnasib13/unlock-your-potential-a-step-by-step-guide-to-improving-manual-testing-skills-5b5c5515501e)
 <!-- BLOG-POST-LIST:END -->
-
-*(You can automate this section using GitHub Actions with [dev.to/blog-post-workflow](https://github.com/gautamkrishnar/blog-post-workflow) or a Medium RSS parser)*
 
 ---
 
