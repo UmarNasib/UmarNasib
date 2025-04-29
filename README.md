@@ -7,7 +7,7 @@
 
 ## 💼 What I Do
 
-- 🚀 Lead a 35-member QA team driving test automation at scale
+- 🚀 Co-Lead a 22-member QA team driving test automation at scale
 - ✅ 6+ years of experience in API Testing, Automation Frameworks, and CI/CD
 - 🤖 Researcher with published work in NLP, Speech-to-Text, and ML-based classification
 - 👨‍🏫 Trainer and recruiter for 4+ years, mentoring and onboarding QA engineers
