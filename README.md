@@ -21,7 +21,7 @@
 `Python` `JavaScript` `Java`  
 
 **Testing:**  
-`Selenium` `Postman` `REST Assured` `Cypress`  
+`Selenium` `Playwright` `Postman` `REST Assured` `Cypress`  
 
 **CI/CD & DevOps:**  
 `Jenkins` `GitHub Actions` `Docker`  
