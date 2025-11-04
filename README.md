@@ -1,6 +1,6 @@
 # Hi there, I'm Abdullah Umar Nasib 👋
 
-🎓 Vice-Chancellor Gold Medalist | 🧪 Senior QA Engineer | 💬 Researcher | ✍️ Blogger  
+🎓 Vice-Chancellor Gold Medalist | Senior SQA Engineer | Researcher | Blogger  
 🔍 Specializing in QA Automation, API Testing, and ML-powered NLP Systems
 
 ---
@@ -8,7 +8,7 @@
 ## 💼 What I Do
 
 - 🚀 Co-Lead a 22-member QA team driving test automation at scale
-- ✅ 6+ years of experience in API Testing, Automation Frameworks, and CI/CD
+- ✅ 7+ years of experience in API Testing, Automation Frameworks, and CI/CD
 - 🤖 Researcher with published work in NLP, Speech-to-Text, and ML-based classification
 - 👨‍🏫 Trainer and recruiter for 4+ years, mentoring and onboarding QA engineers
 - ✍️ Write about QA best practices and research insights on [Medium](https://medium.com/@umarnasib13)
@@ -36,9 +36,12 @@
 
 ## 📚 Selected Publications
 
-- 🧠 **References Validation in Scholarly Articles using RoBERTa**  
-- 🎤 **Real-Time Bengali Speech-to-Text Conversion**  
-- 🤖 **Sarcasm Detection, COVID X-Ray Classification, Cyber Foraging & More**  
+1. **An Approach to Validate References in Scholarly Articles using RoBERTa** [Accepted in IEEE-iCOSTE-2025] [[Available here]](https://dspace.bracu.ac.bd/xmlui/handle/10361/21226)
+2. [**A real time speech to text conversion technique for bengali language**](https://ieeexplore.ieee.org/abstract/document/8465680/)
+3. [**COVID-19 classification from x-ray images using 2D CNN**](https://ieeexplore.ieee.org/abstract/document/9929517)  
+4. [**Understanding sarcasm from reddit texts using supervised algorithms**](https://ieeexplore.ieee.org/abstract/document/9929882)
+5. [**Multi-criteria Decision Theory-Based Cyber Foraging Peer Selection for Content Streaming**](https://link.springer.com/chapter/10.1007/978-981-16-9416-5_40)
+  
 📖 [View all on Google Scholar →](https://scholar.google.com/citations?user=Jv_yP-sAAAAJ&hl=en&oi=ao)
 
 ---
