@@ -55,13 +55,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-![Umar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=UmarNasib&show_icons=true&theme=default)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=UmarNasib&layout=compact&theme=default)
-
----
-
 ## 🔗 Profiles & Links
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/umarnasib/)
