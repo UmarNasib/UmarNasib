@@ -1,6 +1,6 @@
 # Hi there, I'm Abdullah Umar Nasib 👋
 
-🎓 Incoming PhD Student at University of Canterbury | Senior SQA Engineer | Vice-Chancellor Gold Medalist
+🎓 Incoming PhD Student at University of Canterbury | Senior SQA Engineer | Vice-Chancellor Gold Medalist <br>
 🔍 Specializing in QA Automation, API Testing, and ML-powered NLP Systems
 
 ---
